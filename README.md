@@ -19,3 +19,9 @@ Sebelum run program unduh terlebih dahulu vector Fasttext pada:
 [Fasttext File](https://fasttext.cc/docs/en/crawl-vectors.html) 
 
 Pilih Bahasa Indonesia dan file format text, setelah itu run seperti biasa dari cell pertama. 
+
+## Deep Learning Word2vec: 
+Sebelum run program unduh terlebih dahulu vector word2vec versi Bahasa Indonesia pada: 
+[word2vec File](https://drive.google.com/file/d/1WFBBCDIssfHDeFpYgWPtj14e71vYkX6o/view) 
+
+Ekstrak dan keluaran isi file dalam folder lalu jalankan program.
