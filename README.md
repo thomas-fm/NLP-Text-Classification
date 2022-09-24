@@ -12,4 +12,10 @@ Lalu load menggunakan library pickle seperti berikut:
 ```python
 import pickle
 model = pickle.load(open([PATH], 'rb'))
-```
+``` 
+
+## Deep Learning Fasttext: 
+Sebelum run program unduh terlebih dahulu vector Fasttext pada: 
+[Fasttext File](https://fasttext.cc/docs/en/crawl-vectors.html) 
+
+Pilih Bahasa Indonesia dan file format text, setelah itu run seperti biasa dari cell pertama. 
